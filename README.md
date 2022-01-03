@@ -1,5 +1,5 @@
 # Jamilgomes
- # <a href="mailto:jamil.gomes.ll@outlook.com">João Felipe</a> 
+ # <a href="mailto:jamil.gomes.ll@outlook.com">Jamil Gomes</a> 
  
 <br>
 I am a Database Administrator Oracle, Sql Server and Mysql.
